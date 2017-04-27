@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/tina/Scripts/python/Autoencoder/checkpoints"
+all_model_checkpoint_paths: "/home/tina/Scripts/python/Autoencoder/checkpoints/model.ckpt"
+all_model_checkpoint_paths: "/home/tina/Scripts/python/Autoencoder/checkpoints"
